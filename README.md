@@ -1,7 +1,7 @@
 
 //<h1> structure of url shortner <h1>
-
-url-shortener/
+<div>
+     url-shortener/
 │── server.js
 │── .env
 │── .gitignore
@@ -11,5 +11,9 @@ url-shortener/
 │── models/
 │    └── Url.js
 │── middleware/
-     └── logger.js
+     └── logger.js    
+   
+</div>
+
+ 
  
